@@ -1,3 +1,3 @@
 # fwb80sarakam
 
-[Heroku localhost Link]{http://localhost:5000/}
+[Heroku localhost Link]{http://localhost:5000}
